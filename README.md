@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0704-binary-search) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
