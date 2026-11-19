@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
