@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
 | [0704-binary-search](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/1470-shuffle-the-array) |
 ## Binary Search
@@ -26,4 +27,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0709-to-lower-case) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
