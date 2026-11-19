@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/1603-design-parking-system) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
