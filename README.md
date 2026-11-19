@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/PratikRaj0101/CAP392_CA3_LEETCODE_12518856/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
